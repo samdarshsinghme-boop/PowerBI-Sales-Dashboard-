@@ -26,10 +26,10 @@ The dashboard provides a comprehensive view of sales, profit, and customer behav
 - Data Analysis  
 
 ## 🔹 Dashboard Preview
-(Screenshots attached above)
+(Screenshot 2026-05-04 194127.png)
 
 ## 🔹 Download Dashboard File
-👉 Download/View here: (https://drive.google.com/file/d/1K1Wcio8VQfslJP0aK8mh3FeycHZLwFbT/view?usp=drive_link)
+👉 Download/View here: (https://drive.google.com/file/d/1pXquSczwU-p0HwDvfUuxvFy0gMgOF1CP/view?usp=sharing)
 
 ---
 
